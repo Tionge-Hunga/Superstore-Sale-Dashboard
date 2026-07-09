@@ -1,5 +1,3 @@
-<img width="1178" height="537" alt="Superstore_Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/cdea3335-e96d-46ae-9328-78bc24a5fa3d" /># Superstore-Sale-Performance-Dashboard-Microsoft-Excel
-
 ## Project Overview
 
 This project presents an interactive sales performance dashboard built in Microsoft Excel using the Sample Superstore dataset. The dashboard provides key business insights into sales, profitability, customer segments, product categories, cities, and sales trends over time.
