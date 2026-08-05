@@ -59,10 +59,10 @@ This dashboard was created to transform raw sales data into meaningful business 
 
 ## Key Insights
 
-- The Consumer segment generated the highest sales, contributing approximately 51% of total sales.
-- The Technology category was the highest-performing product category, contributing approximately 36% of total sales. Within this category, Phones were the top-selling product, generating $329,870 in sales.
-- New York City recorded the highest sales among all cities, generating $256,327 in total sales.
-- Sales demonstrated a strong upward trend over the four-year period, increasing from $86,482 in 2014 to $279,861 in 2017.
+- The Consumer segment generated the highest sales, contributing approximately **51%** of total sales.
+- The Technology category was the highest-performing product category, contributing approximately **36%** of total sales. Within this category, Phones were the top-selling product, generating **$329,870** in sales.
+- New York City recorded the highest sales among all cities, generating **$256,327** in total sales.
+- Sales demonstrated a strong upward trend over the four-year period, increasing from **$86,482** in 2014 to **$279,861** in 2017.
 
 ## Recommendations
 - Continue investing in the Technology category due to its strong sales performance.
