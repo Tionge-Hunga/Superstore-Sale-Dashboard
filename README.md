@@ -70,8 +70,9 @@ This dashboard was created to transform raw sales data into meaningful business 
 - Focus marketing efforts on high-performing customer segments while identifying opportunities to grow underperforming segments.
 - Use regional sales trends to support inventory planning and sales forecasting.
 
-## 👤 Author
+## Author
 **Tionge Hunga**
+
 Data Analyst | Data Management Specialist | Monitoring & Evaluation Professional
 
 - LinkedIn: https://www.linkedin.com/in/tionge-hunga
