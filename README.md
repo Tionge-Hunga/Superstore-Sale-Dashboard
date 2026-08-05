@@ -2,14 +2,14 @@
 
 This project presents an interactive sales performance dashboard built in Microsoft Excel using the Sample Superstore dataset. The dashboard provides key business insights into sales, profitability, customer segments, product categories, cities, and sales trends over time.
 
-## Dataset
-Source : Kaggle - Sample Superstore Dataset - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-
 ## Business Problem
 
 Retail businesses generate large amounts of sales data. Decision-makers need a clear and interactive way to monitor business performance, identify high-performing products and customer segments, and track sales trends.
 
 This dashboard was created to transform raw sales data into meaningful business insights.
+
+## Dataset
+Source : Kaggle - Sample Superstore Dataset - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Objectives
 
@@ -36,7 +36,7 @@ This dashboard was created to transform raw sales data into meaningful business 
 - Sales by Category
 - Sales by Customer Segment
 
-## Tools Used
+## Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
