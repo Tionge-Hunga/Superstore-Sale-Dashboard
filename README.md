@@ -39,8 +39,8 @@ This dashboard was created to transform raw sales data into meaningful business 
 ## Tools Used
 
 - Microsoft Excel
-- PivotTables
-- PivotCharts
+- Pivot Tables
+- Pivot Charts
 - Slicers
 - Dashboard Design
 - Data Visualization
